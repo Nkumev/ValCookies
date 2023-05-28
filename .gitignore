@@ -1,0 +1,3 @@
+# hide all folders that are .txt
+
+*.txt
